@@ -1,4 +1,4 @@
-module github.com/meeigo/protobuf
+module github.com/meiigo/protobuf
 
 go 1.19
 
